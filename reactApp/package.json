@@ -71,6 +71,5 @@
     "@storybook/preset-create-react-app": "^4.0.0",
     "@storybook/react": "^6.4.18",
     "webpack": "^5.68.0"
-  },
-  "proxy": "http://localhost:8080"
+  },"proxy": "http://localhost:8080"
 }
